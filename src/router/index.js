@@ -16,6 +16,16 @@ const routes = [
     path: '/tree2',
     name: 'Tree2',
     component: () => import('../views/Tree2.vue')
+  },
+  {
+    path: '/tree3',
+    name: 'Tree3',
+    component: () => import('../views/Tree3.vue')
+  },
+  {
+    path: '/tree4',
+    name: 'Tree4',
+    component: () => import('../views/Tree4.vue')
   }
 ]
 

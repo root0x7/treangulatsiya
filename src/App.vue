@@ -3,7 +3,8 @@
     <router-link to="/">Punktlar</router-link> |
     <router-link to="/tree">Treeangulatsiya</router-link> |
     <router-link to="/tree2">Treeangulatsiya 2</router-link> |
-
+    <router-link to="/tree3">Poligonametriya</router-link> |
+    <router-link to="/tree4">Trelateratsiya</router-link> |
   </nav>
   <router-view/>
 </template>
