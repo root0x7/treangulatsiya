@@ -1,7 +1,9 @@
 <template>
   <nav>
     <router-link to="/">Punktlar</router-link> |
-    <router-link to="/tree">Treeangulatsiya</router-link>
+    <router-link to="/tree">Treeangulatsiya</router-link> |
+    <router-link to="/tree2">Treeangulatsiya 2</router-link> |
+
   </nav>
   <router-view/>
 </template>

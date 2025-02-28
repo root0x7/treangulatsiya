@@ -11,6 +11,11 @@ const routes = [
     path: '/tree',
     name: 'Tree',
     component: () => import('../views/Tree.vue')
+  },
+  {
+    path: '/tree2',
+    name: 'Tree2',
+    component: () => import('../views/Tree2.vue')
   }
 ]
 
